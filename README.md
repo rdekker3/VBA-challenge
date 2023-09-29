@@ -1,4 +1,6 @@
-loops through all the stocks for one year and outputs the following information:
+This code was written by me (Ryan Dekker) and is a single module that can do the following:
+
+loops through all the stocks for one year and outputs the following information - 
 
 The ticker symbol
 
